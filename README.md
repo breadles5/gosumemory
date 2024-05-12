@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/SiRniTb.png" width="1000">
+![wallpaper](https://github.com/breadles5/gosumemory/assets/101068519/b49bc551-a7c2-48ba-858f-5d1579591ae4)
 
 Yet another memory reader for osu! Supports both Linux and Windows. (**requires sudo on Linux** though since only root can read /proc)
 
